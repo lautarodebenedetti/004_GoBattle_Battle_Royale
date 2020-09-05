@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4f1b5b4ccb56dd7448026245cde39f97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arma: {instanceID: 0}
+  - pistola: {fileID: 8077121163648929616, guid: 16579c6a7ab59c549ad78bdb959278ac,
+      type: 3}
+  - escopeta: {fileID: 9209670423549540818, guid: 0b00a97e9de8baa4aa6aa88377785a4f,
+      type: 3}
+  - ametralladora: {fileID: 9093256808209122272, guid: 6052fc85e116db4438522234a73e3351,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

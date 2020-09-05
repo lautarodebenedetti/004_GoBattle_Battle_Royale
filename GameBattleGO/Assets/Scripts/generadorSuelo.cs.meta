@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: b4a61cd2613466f44bef70bef1051f7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sueloBosque: {fileID: 4410713457324633261, guid: 66edf02f612fc204a99bb52d423d0e7c,
+      type: 3}
+  - sueloDesierto: {fileID: 31286007547361068, guid: 5c3e5b2c98719584c8af6769e728aa75,
+      type: 3}
+  - sueloNieve: {fileID: 5642998473258642093, guid: 7ef2fcc78e9464241aead7fc84cab72a,
+      type: 3}
+  - agua: {fileID: 7696738793349890825, guid: 85ef627beef02a54aa90cdc6d55ad98e, type: 3}
+  - empty: {instanceID: 0}
+  - arbol1: {instanceID: 0}
+  - arbol2: {instanceID: 0}
+  - arbol3: {instanceID: 0}
+  - arbol4: {instanceID: 0}
+  - objetoRompible1: {instanceID: 0}
+  - objetoRompible2: {instanceID: 0}
+  - nada: {instanceID: 0}
+  - camara: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
